@@ -6,7 +6,7 @@
     <title>Pagina de prueba GITFLOW</title>
 </head>
 <body>
-        <h1>Primera funcionalidad</h1>
+        <h1>PRIMERA FUNCIONALIDAD</h1>
     
 </body>
 </html>
