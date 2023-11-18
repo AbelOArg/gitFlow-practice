@@ -6,11 +6,7 @@
     <title>Pagina de prueba GITFLOW</title>
 </head>
 <body>
-    <?php 
-        echo "Hola mundo.<p>";
-        
-        echo "Nuevo texto.";
-    ?>
+        <h1>Primera funcionalidad</h1>
     
 </body>
 </html>
