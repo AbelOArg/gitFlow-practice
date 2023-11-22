@@ -7,6 +7,8 @@
 </head>
 <body>
         <h1>PRIMERA FUNCIONALIDAD</h1>
+
+        <h1>Segunda fix</h1>
     
 </body>
 </html>
