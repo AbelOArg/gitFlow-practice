@@ -8,7 +8,9 @@
 <body>
         <h1>PRIMERA FUNCIONALIDAD</h1>
 
-        <h1>Segunda fix</h1>
+        <script src="funciones.js"></script>
+
+        <script>saludo("juan");</script>
     
 </body>
 </html>
