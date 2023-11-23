@@ -1,4 +1,4 @@
-function saludo($nombre)
+function saludo(nombre)
 {
-    document.write("Hola " + $nombre);
+    console.log(`Hola ${nombre}`);
 }
